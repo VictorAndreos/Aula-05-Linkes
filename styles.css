@@ -8,14 +8,14 @@ a{
   margin: 12px;
   border: solid;
   border-width: 5px;
-  border-color: #ccc;
-  color: beige;
-  background-color:rgb(4, 152, 237);
+  border-color: #ff0095 yellowgreen yellow #ccc;
+  color: #ff0095;
+  background-color: cyan;
   font-size: 18px;
 }
 
 h1{
     padding: 20px;
     font-size: 32px;
-    color: #ccc;
+    color: #ff0095;
 }
